@@ -27,15 +27,21 @@
     <ClInclude Include="ReadData.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Accel_Filter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="accel_filter.cpp">
+    <ClCompile Include="ReadData.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ReadData.cpp">
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Accel_Filter.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
